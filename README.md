@@ -18,18 +18,18 @@
 sudo apt update
 sudo apt upgrade
 ```
-2. Docker: 20.10.13
+1. Python: 3.8.0
 ```sh
 sudo apt install docker.io
 sudo snap install docker
 docker --version
 ```
-2. Docker-compose: v2.3.3
+2. Docker: 20.10.13
 ```sh
 sudo apt install docker-compose-plugin
 docker compose version
 ```
-3. Python: 3.8.0
+3. Docker-compose: v2.3.3
 ```sh
 sudo apt install python3
 sudo apt python3-pip

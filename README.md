@@ -1,7 +1,7 @@
 # Product Name
 > Short blurb about what your product does.
 
-[![Docker: 20.10.16][npm-image]][npm-url]
+[![Docker: 20.10.16](https://hub.docker.com)]
 [![Python: 3.8.0][travis-image]][travis-url]
 [![Docker-Compose: 1.25.0][npm-downloads]][npm-url]
 

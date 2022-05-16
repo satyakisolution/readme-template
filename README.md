@@ -1,7 +1,7 @@
 # Arkun
 ## An Effective and Personalized way to present your ideas across
-> Arkun is an effortless way to create personalized advertisement
-> Helps to grasp customer intrest with a customised video message
+> Arkun is an effortless way to create personalized advertisement.
+> Helps to grasp customer interest with a customised video message
 > by adapting videos with a speaking face for a specific text message
 
 ![Pyhton: 3.8.0](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -11,7 +11,8 @@
 
 ## Installation
 
-Requirements
+### Requirements
+
 0. Update and Upgrade
 ```sh
 sudo apt update
@@ -81,5 +82,6 @@ docker-compose down
 ### Authors and References
 > Wav2lip
 > > https://github.com/Rudrabha/Wav2Lip
+
 > Satyaki Solutions
 > > https://github.com/satyakisolutions

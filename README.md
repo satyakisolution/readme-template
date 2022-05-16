@@ -10,7 +10,7 @@
 
 One to two paragraph statement about your product and what it does.
 
-![](header.png)
+![](ezgif.com-gif-maker.gif)
 
 ## Installation
 

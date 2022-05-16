@@ -1,12 +1,12 @@
 # Arkun
-> An Effective and Personalized way to present your ideas across
-> > Arkun is an effortless way to create personalized advertisement
-> > Helps to grasp customer intrest with a customised video message
-> > by adapting videos with a speaking face for a specific text message
+# # An Effective and Personalized way to present your ideas across
+> Arkun is an effortless way to create personalized advertisement
+> Helps to grasp customer intrest with a customised video message
+> by adapting videos with a speaking face for a specific text message
 
-[![Pyhton: 3.8.0](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)]
-[![Docker: 20.10.13](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)]
-[![Docker-Compose: 1.25.0](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)]
+![Pyhton: 3.8.0](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![Docker: 20.10.13](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+
 
 One to two paragraph statement about your product and what it does.
 

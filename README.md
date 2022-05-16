@@ -1,5 +1,5 @@
 # Arkun
-# # An Effective and Personalized way to present your ideas across
+## An Effective and Personalized way to present your ideas across
 > Arkun is an effortless way to create personalized advertisement
 > Helps to grasp customer intrest with a customised video message
 > by adapting videos with a speaking face for a specific text message

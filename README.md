@@ -1,10 +1,9 @@
 # Product Name
 > Short blurb about what your product does.
 
-[![NPM Version][npm-image]][npm-url]
-[![Docker][docker-image]][docker-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+[![Docker: 20.10.16][npm-image]][npm-url]
+[![Python: 3.8.0][travis-image]][travis-url]
+[![Docker-Compose: 1.25.0][npm-downloads]][npm-url]
 
 One to two paragraph statement about your product and what it does.
 
